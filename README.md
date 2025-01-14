@@ -11,3 +11,4 @@ Current design guidelines / ideas:
   - propeller
   - major flight control surfaces
   - essential lights
+- Blender 3.6.19
