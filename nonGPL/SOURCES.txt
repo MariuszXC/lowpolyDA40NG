@@ -1,6 +1,7 @@
 DA40NG_3Dview_F.png - scan from [1] 
 DA40NG_3Dview_L.png - scan from [1]
 DA40NG_3Dview_T.png - scan from [1]
+csm_Diamond-DA40NG-Airframe_88480e6d05.png - from [2]
 
 [1] - DA40NG AFM (pdf from manufacturer's web site)
-
+[2] - DA40NG manufacturer's brochure, safety section 
